@@ -6,7 +6,7 @@ Install all dependencies,then you're good to chat,
 
 or
 
-**download each dependency individually which personally I did** 
+**download each dependency individually which I personally did** 
 
 **python manage.py runserver**
 
