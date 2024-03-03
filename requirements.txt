@@ -24,7 +24,5 @@ tzdata==2021.5
 incremental==21.3.0
 cryptography==36.0.1
 
-
 asgiref==3.4.1
-twisted-iocpsupport==1.0.2
 cffi==1.15.0
