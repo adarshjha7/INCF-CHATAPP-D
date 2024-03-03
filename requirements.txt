@@ -26,3 +26,4 @@ cryptography==36.0.1
 
 asgiref==3.4.1
 cffi==1.15.0
+gunicorn
